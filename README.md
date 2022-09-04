@@ -8,15 +8,11 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ishraque-dev)]
 <p align="left"> <a href="https://twitter.com/ishraque_" target="blank"><img src="https://img.shields.io/twitter/follow/ishraque_?logo=twitter&style=for-the-badge" alt="ishraque_" /></a> </p>
 
-- 🌱 I’m currently learning **Web3 BlockChain**
+- 🤑 Open for any collaborations and offers!
+- 📪 Find me at  **ahamedesrak@gmail.com**
+- 🤝 Wanna team up? Send me a message on twitter
 
-- 💬 Ask me about **JavaScript React Node TypeScript**
-
-- 📫 How to reach me **ahamedesrak@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
