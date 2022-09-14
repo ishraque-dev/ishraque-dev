@@ -10,7 +10,7 @@
 
 - 🤑 Open for any collaborations and offers!
 - 📪 Find me at  **ahamedesrak@gmail.com**
-- 🤝 Wanna team up? Send me a message on twitter
+ 
 
  
 
