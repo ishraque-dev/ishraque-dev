@@ -11,7 +11,7 @@
 - Passionate about web development technologies!   
 - Building cool projects.
 - Contributing to the community.
-- Learning new web technologies
+- Learning new technologies.
 - Helping others and believing in open source.
  
   
