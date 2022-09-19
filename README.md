@@ -3,7 +3,7 @@
 <h2 align="center">Hey there, I'm Ishraque</h2>
 <h4 align="center">MERN | FULLSTACK | BLOCKCHAIN </h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ishraque-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ishraque-dev" /> </p>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=ishraque-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ishraque-dev"/> </p>
 
  
  
