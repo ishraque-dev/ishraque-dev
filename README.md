@@ -13,6 +13,7 @@
 - Contributing to the community.
 - Learning new technologies.
 - Helping others and believing in open source.
+- Braking keybords for Codewars.
  
   <hr></hr>
 
