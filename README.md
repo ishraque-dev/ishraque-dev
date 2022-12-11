@@ -1,14 +1,14 @@
  
 
 <h2 align="center">Hey there, I'm Ishraque</h2>
-<h4 align="center">MERN | FULLSTACK | PYTHON </h3>
+<h4 align="center">MERN | FULLSTACK   </h3>
 
 <h4 align="right">Codewars:</h4><p align="right"><img src="https://www.codewars.com/users/ishraque/badges/micro" alt="ishraque-dev"/> </p>
 
  
  
  
-- Passionate about web technologies & AI/Data science!   
+- Interested in web technologies & AI/Data science!   
 - Building cool projects.
 - Contributing to the community.
 - Learning new technologies.
